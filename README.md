@@ -11,3 +11,5 @@ docker build . -t dpd
 
 docker-compose up
 ```
+
+open up http://localhost:2304/
